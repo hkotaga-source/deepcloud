@@ -1,0 +1,4 @@
+region        = "ap-south-1"
+app_name      = "deepcloud"
+image_tag     = "latest"
+desired_count = 1
